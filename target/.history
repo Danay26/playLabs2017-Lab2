@@ -1,0 +1,10 @@
+run
+exit
+run
+git commit -m
+git commit -m "first commit"
+git config -- global user.email "x00141141@gmail.co2"
+git config -- global user.email "x00141141@gmail.com"
+git add -A
+echo "# playLabs2017-Lab1" >>README.md
+exit
